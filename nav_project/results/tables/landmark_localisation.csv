@@ -1,0 +1,4 @@
+landmark,true_x,true_y,est_x,est_y,error_cm,n_obs
+blue,5.5,2.0,5.43,2.054,8.845,29
+green,8.2,3.4,8.234,3.37,4.497,77
+magenta,5.0,6.4,4.989,6.406,1.249,102

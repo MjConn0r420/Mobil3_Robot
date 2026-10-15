@@ -1,0 +1,2 @@
+planned_path_m,actual_path_m,time_to_goal_s,cte_mean_cm,cte_rms_cm,cte_max_cm,min_clearance_m,final_goal_error_m
+21.653,30.351,42.56,1.938,2.874,11.211,0.198,0.073
