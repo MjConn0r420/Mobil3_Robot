@@ -1,5 +1,0 @@
-algo,nodes_expanded,time_ms,path_cost_m,waypoints
-Dijkstra,6571,41.471,22.334,197
-A* (octile),5320,64.911,22.334,197
-A* (Euclidean),5491,31.43,22.334,197
-A* (Manhattan),4985,43.032,22.334,197

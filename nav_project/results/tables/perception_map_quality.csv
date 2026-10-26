@@ -1,4 +1,0 @@
-map,planning_precision,planning_recall,planning_F1,planning_IoU,TP,FP,FN,TN,lowbox_cells_marked
-LiDAR only,0.906,0.914,0.91,0.835,2593,269,245,6893,0.094
-Camera only,0.778,0.57,0.658,0.49,1619,463,1219,6699,0.719
-Fused (OR of log-odds),0.852,0.971,0.908,0.831,2757,479,81,6683,0.76

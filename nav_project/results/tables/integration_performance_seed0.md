@@ -1,7 +1,0 @@
-| configuration                   | reached   | collided   |   time_s |   planned_len |   actual_len |   cte_mean |   cte_rms |   cte_max |   min_clear |   nodes |   plan_ms |
-|:--------------------------------|:----------|:-----------|---------:|--------------:|-------------:|-----------:|----------:|----------:|------------:|--------:|----------:|
-| A* + smoothing (proposed)       | True      | False      |     42.8 |          21.8 |        21.2  |      0.015 |     0.026 |     0.106 |       0.205 |    5320 |      55.8 |
-| Dijkstra + smoothing            | True      | False      |     42.2 |          21.4 |        20.9  |      0.013 |     0.024 |     0.11  |       0.262 |    6571 |      44.5 |
-| A* raw grid path (no smoothing) | True      | False      |     44.1 |          22.4 |        21.7  |      0.019 |     0.03  |     0.099 |       0.218 |    5320 |      51.9 |
-| A* + smoothing, LiDAR-only map  | False     | True       |     15.1 |          18.4 |         7.45 |      0.012 |     0.023 |     0.109 |       0.148 |    5088 |      40.7 |
-| A* + smoothing, camera-only map | True      | False      |     42.8 |          21.8 |        21.2  |      0.015 |     0.026 |     0.106 |       0.205 |    6028 |      46.9 |
